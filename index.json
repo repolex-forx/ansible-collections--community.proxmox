@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "community.proxmox",
+  "versions": [
+    {
+      "commit": "eae7bfb00ee4d24be89ae358f7f32e2e4acdfad7",
+      "tag": "",
+      "parsed_at": "2026-11-07T16:37:11.939586+00:00"
+    }
+  ]
+}
